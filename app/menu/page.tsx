@@ -106,6 +106,13 @@ const menu = {
     },
     {
       id: 3,
+      nombre: "Jugo de Limon",
+      descripcion: "Jugo natural de Limon.",
+      precio: 100,
+      imagen: "/placeholder.svg?height=100&width=100",
+    },
+    {
+      id: 4,
       nombre: "Mamajuana",
       descripcion: "Bebida tradicional dominicana a base de ron, vino tinto y hierbas.",
       precio: 220,

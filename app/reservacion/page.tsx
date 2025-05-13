@@ -197,9 +197,6 @@ export default function ReservacionPage() {
                 <a href="#" className="hover:text-amber-200">
                   Instagram
                 </a>
-                <a href="#" className="hover:text-amber-200">
-                  Twitter
-                </a>
               </div>
             </div>
           </div>
